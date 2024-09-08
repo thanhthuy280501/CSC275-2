@@ -7,7 +7,7 @@ using namespace std;
 // Program:	in-class exercise #2
 // Author:	Thuy Nguyen
 // Class: CSC 275
-// Date:	09/06/22 and 09/08/22
+// Date:	09/06/24 and 09/08/24
 // This program creates instances of class Student and demonstrates
 // the use of various features of the class
 //*******************************************************************
